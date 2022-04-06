@@ -81,6 +81,7 @@ body{
     border-radius: 20px;
     transition: all .2s ease-in-out;
     cursor: pointer;
+    -webkit-tap-highlight-color: transparent;
 }
 #btn:hover{
     background-color:#ffc400ef ;
